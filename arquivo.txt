@@ -1,2 +1,3 @@
 teste
 “outro tipo commit”
+Novo tipo de commit
